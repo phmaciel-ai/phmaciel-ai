@@ -18,4 +18,4 @@ Visualização de Dados (Power BI, Tableau)
 Python, SQL e ferramentas de Big Data
 
 💡 Objetivo:
-Me desenvolver como Cientista/Engenheiro de Dados e contribuir com projetos que transformem dados em insights valiosos.
+Me desenvolver como Cientista/Engenheiro de Dados e contribuir com projetos que transformem dados em insights.
