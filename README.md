@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Maciel 
+# 👨🏽‍💻 Pedro Maciel 
 
 **`Entusiasta por dados`**
 
