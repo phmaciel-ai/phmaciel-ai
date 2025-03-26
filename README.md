@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩🏻‍💻 Pedro Maciel 
 
-<!--
-**phmaciel-ai/phmaciel-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Entusiasta por dados`**
 
-Here are some ideas to get you started:
+Olá, eu sou Pedro Henrique! 👋
+🌎 Cuiabá-MT | 🎓 Tecnólogo em Redes de Computadores (IFMT) | 🌱 Aprendizagem Contínua em Ciência de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um entusiasta da tecnologia com formação em Redes de Computadores pelo IFMT e estou em transição para a área de Dados, onde busco minha primeira oportunidade profissional.
+
+🔍 Interesses:
+
+Análise de Dados
+
+Machine Learning
+
+Visualização de Dados (Power BI, Tableau)
+
+Python, SQL e ferramentas de Big Data
+
+💡 Objetivo:
+Me desenvolver como Cientista/Engenheiro de Dados e contribuir com projetos que transformem dados em insights valiosos.
